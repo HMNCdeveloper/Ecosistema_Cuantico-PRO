@@ -10,7 +10,7 @@
 
 
 
-![](Homoeonic-Software-v7.png)
+![](Ecosistema_cuantico.png)
 
 ## Overview
 
